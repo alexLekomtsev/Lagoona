@@ -1,0 +1,17 @@
+:root {
+  /* colors */
+  --hover-color: #cc9933;
+  --hover-color-second: #f0bf5f;
+  --focus-color: #cc9933;
+  --card-focus-color: #f0bf5f;
+  --activ-color: #a47312;
+  --white-color: #fff;
+  --black-color: #000;
+  --bg-color: #e5e5e5;
+  --btn-color: #cc9933;
+  --color-link: #666666;
+
+  /* transition */
+
+  --main-transition: 0.2s linear;
+}
