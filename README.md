@@ -1,7 +1,12 @@
 # Lagoona
 
-<p>Эта моя первая работа.</p>
+Это моя первая работа в рамках курса Веб - вëрстка Базовый уровень от [Skillbox](https://skillbox.ru)
 
-<p>Данный сайт выполнен по метадологии БЭМ. Добавлены hover-эфекты.</p>
+Применены:
+<ul>
+  <li>Метадология БЭМ</li>
+  <li>hover-эфекты</li>
+  <li>Семантика</li>
+</ul>
 
-<p>Сайт Lagoona можно посмотреть <a href="https://alexlekomtsev.github.io/lagoona.github.io/">по этой ссылке.</a></p>
+Сайт Lagoona можно посмотреть по этой [ссылке](https://alexlekomtsev.github.io/lagoona.github.io/). 
